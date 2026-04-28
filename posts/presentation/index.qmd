@@ -1,5 +1,6 @@
 ---
 title: "High Blood Pressure (Hypertension)"
+author: "Jamar Arrington"
 format: revealjs
 ---
 
