@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "Quarto manuscript\n\n\n\n\n\n\n\n\n1777382562\n\n\nMartin Laptev\n\n\n\n\n\n\n\n\n\n\n\n\nHigh Blood Pressure (Hypertension)\n\n\n\n\n\n\n\n\n1777382562\n\n\nJamar Arrington\n\n\n\n\n\nNo matching items\nAttributions\n\nArtwork from “Hello, Quarto” keynote by Mine Çetinkaya-Rundel and Julia Stewart Lowndes, presented at RStudio Conference 2022. Illustrated by Allison Horst.\n\n\n\nA schematic representing the multi-language input (e.g. Python, R, Observable, Julia) and multi-format output (e.g. PDF, html, Word documents, and more) versatility of Quarto.\n\n\n\n\n\nTwo penguins in a room made of ice, looking out a window. One penguin is holding an icicle as a pointer, pointing at a Quarto logo “moon” in the sky, while the other penguin looks on.\n\n\nFor more from Allison, see her website and GitHub."
+  },
+  {
+    "objectID": "posts/presentation/index.html#introduction-what-is-high-blood-pressure",
+    "href": "posts/presentation/index.html#introduction-what-is-high-blood-pressure",
+    "title": "High Blood Pressure (Hypertension)",
+    "section": "Introduction: What Is High Blood Pressure?",
+    "text": "Introduction: What Is High Blood Pressure?\n\nHigh blood pressure (hypertension) occurs when the force of blood against artery walls stays too high.\nOften called the silent killer because it usually has no symptoms.\nNormal BP: &lt;120/80 mmHg\n\nHypertension: ≥130/80 mmHg\nMajor risk factor for heart disease, stroke, and kidney damage."
+  },
+  {
+    "objectID": "posts/presentation/index.html#causes-risk-factors",
+    "href": "posts/presentation/index.html#causes-risk-factors",
+    "title": "High Blood Pressure (Hypertension)",
+    "section": "Causes & Risk Factors",
+    "text": "Causes & Risk Factors\n\nLifestyle factors: high salt intake, inactivity, smoking, alcohol use.\nMedical conditions: diabetes, kidney disease, high cholesterol.\nGenetics & age: risk increases with age or family history.\nStress: chronic stress can elevate blood pressure."
+  },
+  {
+    "objectID": "posts/presentation/index.html#effects-on-the-body",
+    "href": "posts/presentation/index.html#effects-on-the-body",
+    "title": "High Blood Pressure (Hypertension)",
+    "section": "Effects on the Body",
+    "text": "Effects on the Body\n\nDamages blood vessels and strains the heart.\nIncreases risk of:\n\nHeart attack\nStroke\nHeart failure\nKidney disease\nVision loss\n\nEarly detection helps prevent long‑term complications."
+  },
+  {
+    "objectID": "posts/presentation/index.html#conclusion-prevention-management",
+    "href": "posts/presentation/index.html#conclusion-prevention-management",
+    "title": "High Blood Pressure (Hypertension)",
+    "section": "Conclusion: Prevention & Management",
+    "text": "Conclusion: Prevention & Management\n\nReduce salt intake and maintain a balanced diet.\nExercise regularly and maintain a healthy weight.\nAvoid smoking and limit alcohol.\nMonitor blood pressure consistently.\nFollow medical guidance; medication may be needed."
+  },
+  {
     "objectID": "posts/manuscript/index.html",
     "href": "posts/manuscript/index.html",
     "title": "Quarto manuscript",
@@ -35,45 +70,10 @@
     "text": "Conclusion: Prevention & Management\n\nReduce salt intake and maintain a balanced diet.\nExercise regularly and maintain a healthy weight.\nAvoid smoking and limit alcohol.\nMonitor blood pressure consistently.\nFollow medical guidance; medication may be needed."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tutorials",
-    "section": "",
-    "text": "High Blood Pressure (Hypertension)\n\n\n\n\n\n\n\n\n1777382155\n\n\nJamar Arrington\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto manuscript\n\n\n\n\n\n\n\n\n1777382155\n\n\nMartin Laptev\n\n\n\n\n\nNo matching items\nAttributions\n\nArtwork from “Hello, Quarto” keynote by Mine Çetinkaya-Rundel and Julia Stewart Lowndes, presented at RStudio Conference 2022. Illustrated by Allison Horst.\n\n\n\nA schematic representing the multi-language input (e.g. Python, R, Observable, Julia) and multi-format output (e.g. PDF, html, Word documents, and more) versatility of Quarto.\n\n\n\n\n\nTwo penguins in a room made of ice, looking out a window. One penguin is holding an icicle as a pointer, pointing at a Quarto logo “moon” in the sky, while the other penguin looks on.\n\n\nFor more from Allison, see her website and GitHub."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this blog"
-  },
-  {
-    "objectID": "posts/presentation/index.html#introduction-what-is-high-blood-pressure",
-    "href": "posts/presentation/index.html#introduction-what-is-high-blood-pressure",
-    "title": "High Blood Pressure (Hypertension)",
-    "section": "Introduction: What Is High Blood Pressure?",
-    "text": "Introduction: What Is High Blood Pressure?\n\nHigh blood pressure (hypertension) occurs when the force of blood against artery walls stays too high.\nOften called the silent killer because it usually has no symptoms.\nNormal BP: &lt;120/80 mmHg\n\nHypertension: ≥130/80 mmHg\nMajor risk factor for heart disease, stroke, and kidney damage."
-  },
-  {
-    "objectID": "posts/presentation/index.html#causes-risk-factors",
-    "href": "posts/presentation/index.html#causes-risk-factors",
-    "title": "High Blood Pressure (Hypertension)",
-    "section": "Causes & Risk Factors",
-    "text": "Causes & Risk Factors\n\nLifestyle factors: high salt intake, inactivity, smoking, alcohol use.\nMedical conditions: diabetes, kidney disease, high cholesterol.\nGenetics & age: risk increases with age or family history.\nStress: chronic stress can elevate blood pressure."
-  },
-  {
-    "objectID": "posts/presentation/index.html#effects-on-the-body",
-    "href": "posts/presentation/index.html#effects-on-the-body",
-    "title": "High Blood Pressure (Hypertension)",
-    "section": "Effects on the Body",
-    "text": "Effects on the Body\n\nDamages blood vessels and strains the heart.\nIncreases risk of:\n\nHeart attack\nStroke\nHeart failure\nKidney disease\nVision loss\n\nEarly detection helps prevent long‑term complications."
-  },
-  {
-    "objectID": "posts/presentation/index.html#conclusion-prevention-management",
-    "href": "posts/presentation/index.html#conclusion-prevention-management",
-    "title": "High Blood Pressure (Hypertension)",
-    "section": "Conclusion: Prevention & Management",
-    "text": "Conclusion: Prevention & Management\n\nReduce salt intake and maintain a balanced diet.\nExercise regularly and maintain a healthy weight.\nAvoid smoking and limit alcohol.\nMonitor blood pressure consistently.\nFollow medical guidance; medication may be needed."
   }
 ]

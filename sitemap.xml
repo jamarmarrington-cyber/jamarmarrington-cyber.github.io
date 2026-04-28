@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://USERNAME.github.io/posts/manuscript/index.html</loc>
-    <lastmod>2026-04-28T13:15:55.682Z</lastmod>
-  </url>
-  <url>
-    <loc>https://USERNAME.github.io/posts/presentation/demo/index.html</loc>
-    <lastmod>2026-04-28T13:18:15.794Z</lastmod>
-  </url>
-  <url>
     <loc>https://USERNAME.github.io/index.html</loc>
-    <lastmod>2026-04-28T13:15:55.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://USERNAME.github.io/about.html</loc>
-    <lastmod>2026-04-28T13:15:55.670Z</lastmod>
+    <lastmod>2026-04-28T13:22:42.716Z</lastmod>
   </url>
   <url>
     <loc>https://USERNAME.github.io/posts/presentation/index.html</loc>
-    <lastmod>2026-04-28T13:15:55.734Z</lastmod>
+    <lastmod>2026-04-28T13:22:42.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/posts/manuscript/index.html</loc>
+    <lastmod>2026-04-28T13:22:42.723Z</lastmod>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/posts/presentation/demo/index.html</loc>
+    <lastmod>2026-04-28T13:22:42.753Z</lastmod>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/about.html</loc>
+    <lastmod>2026-04-28T13:22:42.716Z</lastmod>
   </url>
 </urlset>
