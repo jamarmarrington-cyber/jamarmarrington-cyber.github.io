@@ -10,7 +10,15 @@
 <atom:link href="https://USERNAME.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Tue, 28 Apr 2026 13:22:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Apr 2026 18:17:40 GMT</lastBuildDate>
+<item>
+  <title></title>
+  <dc:creator>Jamar Arrington</dc:creator>
+  <link>https://USERNAME.github.io/posts/presentation/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <guid>https://USERNAME.github.io/posts/presentation/</guid>
+  <pubDate>Tue, 28 Apr 2026 18:17:40 GMT</pubDate>
+</item>
 <item>
   <title>Quarto manuscript</title>
   <dc:creator>Martin Laptev</dc:creator>
@@ -98,16 +106,8 @@ font-style: inherit;">quarto</span> publish gh-pages</span></code></pre></div></
 
  ]]></description>
   <guid>https://USERNAME.github.io/posts/manuscript/</guid>
-  <pubDate>Tue, 28 Apr 2026 13:22:42 GMT</pubDate>
+  <pubDate>Tue, 28 Apr 2026 18:17:40 GMT</pubDate>
   <media:content url="https://USERNAME.github.io/posts/manuscript/images/quar.png" medium="image" type="image/png" height="53" width="144"/>
-</item>
-<item>
-  <title></title>
-  <dc:creator>Jamar Arrington</dc:creator>
-  <link>https://USERNAME.github.io/posts/presentation/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <guid>https://USERNAME.github.io/posts/presentation/</guid>
-  <pubDate>Tue, 28 Apr 2026 13:22:42 GMT</pubDate>
 </item>
 </channel>
 </rss>
