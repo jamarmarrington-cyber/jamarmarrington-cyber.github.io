@@ -13,40 +13,40 @@ format:
 
 ## Introduction: What Is High Blood Pressure?
 
-- High blood pressure (hypertension) occurs when the force of blood against artery walls stays too high.
-- Often called the **silent killer** because it usually has no symptoms.
-- Normal BP: <120/80 mmHg  
-- Hypertension: ≥130/80 mmHg
-- Major risk factor for heart disease, stroke, and kidney damage.
+-   High blood pressure (hypertension) occurs when the force of blood against artery walls stays too high.
+-   Often called the **silent killer** because it usually has no symptoms.
+-   Normal BP: \<120/80 mmHg\
+-   Hypertension: ≥130/80 mmHg
+-   Major risk factor for heart disease, stroke, and kidney damage.
 
----
+------------------------------------------------------------------------
 
 ## Causes & Risk Factors
 
-- **Lifestyle factors:** high salt intake, inactivity, smoking, alcohol use.
-- **Medical conditions:** diabetes, kidney disease, high cholesterol.
-- **Genetics & age:** risk increases with age or family history.
-- **Stress:** chronic stress can elevate blood pressure.
+-   **Lifestyle factors:** high salt intake, inactivity, smoking, alcohol use.
+-   **Medical conditions:** diabetes, kidney disease, high cholesterol.
+-   **Genetics & age:** risk increases with age or family history.
+-   **Stress:** chronic stress can elevate blood pressure.
 
----
+------------------------------------------------------------------------
 
 ## Effects on the Body
 
-- Damages blood vessels and strains the heart.
-- Increases risk of:
-  - Heart attack
-  - Stroke
-  - Heart failure
-  - Kidney disease
-  - Vision loss
-- Early detection helps prevent long‑term complications.
+-   Damages blood vessels and strains the heart.
+-   Increases risk of:
+    -   Heart attack
+    -   Stroke
+    -   Heart failure
+    -   Kidney disease
+    -   Vision loss
+-   Early detection helps prevent long‑term complications.
 
----
+------------------------------------------------------------------------
 
 ## Conclusion: Prevention & Management
 
-- Reduce salt intake and maintain a balanced diet.
-- Exercise regularly and maintain a healthy weight.
-- Avoid smoking and limit alcohol.
-- Monitor blood pressure consistently.
-- Follow medical guidance; medication may be needed.
+-   Reduce salt intake and maintain a balanced diet.
+-   Exercise regularly and maintain a healthy weight.
+-   Avoid smoking and limit alcohol.
+-   Monitor blood pressure consistently.
+-   Follow medical guidance; medication may be needed.
