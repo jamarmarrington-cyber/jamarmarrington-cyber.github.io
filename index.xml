@@ -10,18 +10,9 @@
 <atom:link href="https://USERNAME.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Tue, 28 Apr 2026 18:29:42 GMT</lastBuildDate>
+<lastBuildDate>Tue, 05 May 2026 18:27:47 GMT</lastBuildDate>
 <item>
   <title></title>
-  <dc:creator>Jamar Arrington</dc:creator>
-  <link>https://USERNAME.github.io/posts/presentation/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <guid>https://USERNAME.github.io/posts/presentation/</guid>
-  <pubDate>Tue, 28 Apr 2026 18:29:42 GMT</pubDate>
-</item>
-<item>
-  <title>Effective Study Habits for Anatomy and Physiology</title>
-  <dc:creator>Jamar Arrington</dc:creator>
   <link>https://USERNAME.github.io/posts/manuscript/</link>
   <description><![CDATA[ 
 
@@ -29,16 +20,36 @@
 
 
 
-<section id="introduction" class="level2">
-<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p>Anatomy and Physiology (A&amp;P) requires consistent, active study. Memorization alone is not enough—you must <strong>understand structures, functions, and how systems work together</strong>. This tutorial outlines proven study habits to help you succeed in this course.</p>
-<hr>
+<section id="how-to-prepare-for-a-presentation" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-prepare-for-a-presentation">How to Prepare for a Presentation</h2>
+<p>Preparing for a presentation becomes much easier when you follow a clear, intentional process. Good preparation helps you communicate confidently and keep your audience engaged from start to finish.</p>
+<section id="identify-your-core-message" class="level3">
+<h3 class="anchored" data-anchor-id="identify-your-core-message">1. Identify Your Core Message</h3>
+<p>Decide the single takeaway you want your audience to remember. This central idea should guide your structure, examples, and visuals so everything feels focused and purposeful.</p>
 </section>
-<section id="step-1-prepare-before-class" class="level2">
-<h2 class="anchored" data-anchor-id="step-1-prepare-before-class">Step 1: Prepare Before Class</h2>
-<p>Effective studying begins <em>before</em> you enter the classroom.</p>
-<section id="key-actions" class="level3">
-<h3 class="anchored" data-anchor-id="key-actions">Key Actions</h3>
+<section id="understand-your-audience" class="level3">
+<h3 class="anchored" data-anchor-id="understand-your-audience">2. Understand Your Audience</h3>
+<p>Think about what your audience already knows, what they care about, and what they hope to learn. Tailoring your tone and content to their needs makes your presentation more relevant and effective.</p>
+</section>
+<section id="build-a-clear-structure" class="level3">
+<h3 class="anchored" data-anchor-id="build-a-clear-structure">3. Build a Clear Structure</h3>
+<p>Use a simple, predictable format that keeps you organized: - An opening hook such as a question, story, or surprising fact - Two to four main points supported by examples or evidence - A closing statement or call to action that reinforces your message</p>
+</section>
+<section id="design-helpful-visuals" class="level3">
+<h3 class="anchored" data-anchor-id="design-helpful-visuals">4. Design Helpful Visuals</h3>
+<p>Create slides that support your message rather than repeat it. Keep text minimal, use readable fonts, and rely on visuals like charts or images to highlight key ideas and maintain attention.</p>
+</section>
+<section id="practice-with-intention" class="level3">
+<h3 class="anchored" data-anchor-id="practice-with-intention">5. Practice with Intention</h3>
+<p>Rehearse out loud several times. Focus on pacing, transitions, and clarity. Recording yourself can help you notice habits you might miss in the moment, such as filler words or rushed explanations.</p>
+</section>
+<section id="prepare-your-environment" class="level3">
+<h3 class="anchored" data-anchor-id="prepare-your-environment">6. Prepare Your Environment</h3>
+<p>Test your equipment, check your slides on the actual screen, and make sure your notes are easy to access. A smooth setup reduces stress and helps you start strong.</p>
+</section>
+<section id="anticipate-questions" class="level3">
+<h3 class="anchored" data-anchor-id="anticipate-questions">7. Anticipate Questions</h3>
+<p>List likely questions and prepare short, confident answers. This helps you stay composed during Q&amp;A and shows strong command of your topic.</p>
 
 
 </section>
@@ -46,7 +57,15 @@
 
  ]]></description>
   <guid>https://USERNAME.github.io/posts/manuscript/</guid>
-  <pubDate>Tue, 28 Apr 2026 18:29:42 GMT</pubDate>
+  <pubDate>Tue, 05 May 2026 18:27:47 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <dc:creator>Jamar Arrington</dc:creator>
+  <link>https://USERNAME.github.io/posts/presentation/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <guid>https://USERNAME.github.io/posts/presentation/</guid>
+  <pubDate>Tue, 05 May 2026 18:27:47 GMT</pubDate>
 </item>
 </channel>
 </rss>
