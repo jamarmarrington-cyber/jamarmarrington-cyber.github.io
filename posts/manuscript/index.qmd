@@ -1,18 +1,27 @@
----
-title: "Effective Study Habits for Anatomy and Physiology"
-author: "Jamar Arrington"
-format: html
-toc: true
----
+## How to Prepare for a Presentation
 
-## Introduction
+Preparing for a presentation becomes much easier when you follow a clear, intentional process. Good preparation helps you communicate confidently and keep your audience engaged from start to finish.
 
-Anatomy and Physiology (A&P) requires consistent, active study. Memorization alone is not enough—you must **understand structures, functions, and how systems work together**. This tutorial outlines proven study habits to help you succeed in this course.
+### 1. Identify Your Core Message
+Decide the single takeaway you want your audience to remember. This central idea should guide your structure, examples, and visuals so everything feels focused and purposeful.
 
----
+### 2. Understand Your Audience
+Think about what your audience already knows, what they care about, and what they hope to learn. Tailoring your tone and content to their needs makes your presentation more relevant and effective.
 
-## Step 1: Prepare Before Class
+### 3. Build a Clear Structure
+Use a simple, predictable format that keeps you organized:
+- An opening hook such as a question, story, or surprising fact
+- Two to four main points supported by examples or evidence
+- A closing statement or call to action that reinforces your message
 
-Effective studying begins *before* you enter the classroom.
+### 4. Design Helpful Visuals
+Create slides that support your message rather than repeat it. Keep text minimal, use readable fonts, and rely on visuals like charts or images to highlight key ideas and maintain attention.
 
-### Key Actions
+### 5. Practice with Intention
+Rehearse out loud several times. Focus on pacing, transitions, and clarity. Recording yourself can help you notice habits you might miss in the moment, such as filler words or rushed explanations.
+
+### 6. Prepare Your Environment
+Test your equipment, check your slides on the actual screen, and make sure your notes are easy to access. A smooth setup reduces stress and helps you start strong.
+
+### 7. Anticipate Questions
+List likely questions and prepare short, confident answers. This helps you stay composed during Q&A and shows strong command of your topic.
